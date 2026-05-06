@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.2.5"
+  version: "1.2.6"
 
 package:
   name: grimoirelab-toolkit
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/grimoirelab-toolkit/grimoirelab_toolkit-${{ version }}.tar.gz
-  sha256: d824ed34bcca19182f4a15b04615350bc040a7f84e5761676ded3816f0c03ec0
+  sha256: abf00dc16f67a7a2cd0400e5ce1e36e8b705e28b026884fd969cea3a4b4225ed
 
 build:
   number: 0
